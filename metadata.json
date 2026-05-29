@@ -1,0 +1,6 @@
+{
+  "name": "Component DB & Assistant",
+  "description": "An interactive electronics component database, resistor color code calculator, SMD resistor code calculator, and pinpoint diagram lookup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
